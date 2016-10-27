@@ -1,0 +1,33 @@
+{
+  "name": "project2generalassembly",
+  "version": "1.0.0",
+  "description": "Project 2 GA",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teikmeout/project2generalassembly.git"
+  },
+  "author": "Taka Ahrens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teikmeout/project2generalassembly/issues"
+  },
+  "homepage": "https://github.com/teikmeout/project2generalassembly#readme",
+  "devDependencies": {
+    "eslint": "^3.8.1",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-import": "^1.16.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.4.1"
+  },
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7"
+  }
+}
