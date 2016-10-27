@@ -21,6 +21,5 @@ The main idea of this app would be to collect information from different users a
 - Path
 
 ### References
-- [Google Maps API][1]
+- [Google Maps API](https://developers.google.com/maps/documentation/javascript/)
 
-[1] : https://developers.google.com/maps/documentation/javascript/
