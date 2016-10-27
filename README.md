@@ -19,7 +19,10 @@ The main idea of this app would be to collect information from different users a
 - Node.js
 - Express
 - Path
+- MongoDB
+
+### Wireframes
+(In progress)
 
 ### References
 - [Google Maps API](https://developers.google.com/maps/documentation/javascript/)
-
