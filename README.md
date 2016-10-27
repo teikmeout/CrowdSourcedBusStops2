@@ -23,4 +23,4 @@ The main idea of this app would be to collect information from different users a
 ### References
 - [Google Maps API][1]
 
-    [1]: https://developers.google.com/maps/documentation/javascript/
+[1] : https://developers.google.com/maps/documentation/javascript/
