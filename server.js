@@ -12,4 +12,4 @@ app.set('views', './views');
 // setting up the correct path to public folder
 app.set(express.static(__dirname, 'public'));
 
-app.listen(port, () => consoloe.log(`The server is SMASHIN' on port ${port}`))
+app.listen(port, () => consoloe.log(`The server is SMASHIN' on port ${port}`));
